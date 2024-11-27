@@ -34,7 +34,7 @@ The primary aim of this portfolio website is to:
 Feel free to connect with me:  
 - **Email**: asfakamd.s@gmail.com  
 - **LinkedIn**: https://www.linkedin.com/in/asfak-ahamed  
-- **Portfolio Live Link**: [add website link]  
+- **Portfolio Live Link**: https://asfakahameds.github.io/Asfak-Ahamed-S-Portfolio/  
 
 ---
 
